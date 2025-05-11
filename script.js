@@ -23,7 +23,7 @@ const proyectos = [
     {
         imagen: "assets/acordeon.png",
         titulo: "Acordeon",
-        descripcion: "Componente de acordeon",
+        descripcion: "Componente de acordeon.",
         herramientas: ["HTML", "CSS", "JavaScript"],
         enlace: "https://julisangui.github.io/Acordeon/"
     },
@@ -31,7 +31,7 @@ const proyectos = [
     {
         imagen: "assets/componente-calificador.png",
         titulo: "Componente calificador",
-        descripcion: "Componente calificador que puede reutilizarse en cualquier proyecto",
+        descripcion: "Componente calificador que puede reutilizarse en cualquier proyecto.",
         herramientas: ["HTML", "CSS", "JavaScript"],
         enlace: "https://julisangui.github.io/componente-calificador/"
     },
@@ -39,7 +39,7 @@ const proyectos = [
     {
         imagen: "assets/administrador-de-extensiones.png",
         titulo: "Administrador de extensiones",
-        descripcion: "Software para administrar extensiones, puede ser utilizado tambien como componente para activar/desactivar funciones de un software",
+        descripcion: "Programa para administrar extensiones, puede ser utilizado tambien como componente para activar/desactivar funciones de un software u otro programa.",
         herramientas: ["HTML", "CSS", "JavaScript"],
         enlace: "https://julisangui.github.io/Administrador-de-extensiones/"
     },
@@ -47,7 +47,7 @@ const proyectos = [
     {
         imagen: "assets/generador-ticket.png",
         titulo: "Generador de tickets",
-        descripcion: "Software para generar tickets para cualquier evento",
+        descripcion: "Programa para generar tickets para cualquier evento.",
         herramientas: ["HTML", "CSS", "JavaScript"],
         enlace: "https://julisangui.github.io/Generador-tickets/"
     },
@@ -55,7 +55,7 @@ const proyectos = [
     {
         imagen: "assets/e-commerce-de-comida.png",
         titulo: "E-commerce de comida",
-        descripcion: "Comercio electronico para comprar comida, puede ser utilizado como base para algun otro e-commerce",
+        descripcion: "Comercio electronico para comprar comida, puede ser utilizado como base para algun otro e-commerce.",
         herramientas: ["HTML", "CSS", "JavaScript"],
         enlace: "https://julisangui.github.io/e-commerce-de-comida/"
     },
@@ -63,13 +63,23 @@ const proyectos = [
     {
         imagen: "assets/calculadora-de-hipoteca.png",
         titulo: "Calculadora de hipoteca",
-        descripcion: "Calculadora de hipotecas en Euros",
+        descripcion: "Calculadora de hipotecas en Euros.",
         herramientas: ["HTML", "CSS", "JavaScript"],
         enlace: "https://julisangui.github.io/calculo-de-hipoteca-euros/"
     },
 
+    {
+        imagen: "assets/calculadora-de-fechas.png",
+        titulo: "Calculadora de fechas",
+        descripcion: "Programa que calcula el tiempo transcurrido entre la fecha ingresada y la fecha actual.",
+        herramientas: ["HTML", "CSS", "JavaScript"],
+        enlace: "https://julisangui.github.io/calculadora-de-fechas/"
+    },
 
 
+
+
+    
 
 
     // AGREGAR LAS DE FRONT-END MENTOR ARRIBA
